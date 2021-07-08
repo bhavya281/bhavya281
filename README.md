@@ -1,4 +1,4 @@
-# Hi👋 
+### Hi👋 
 I'm Bhavya Chandra. Currently studying in NMIMS Mumbai. My main interest lies in Java, Python and Web Development. Always ready to learn and experiment new things!
 
 - 🌱 I’m currently learning ML
